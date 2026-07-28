@@ -1,0 +1,9 @@
+git clone https://github.com/hyung-crypto/us-landmarks-history-blog.git
+cd us-landmarks-history-blog
+
+# 압축 푼 파일들을 여기에 덮어쓰기 복사
+# (index.html과 assets/img/*.jpg를 이 폴더 구조에 맞게 복사)
+
+git add .
+git commit -m "Add hero images for all 30 landmarks"
+git push origin main
