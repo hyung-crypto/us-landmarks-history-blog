@@ -1,0 +1,6 @@
+순위,건축물명,Wikipedia_URL,슬러그(slug),필진,카테고리,상태(초안/검토/게시완료),게시일,파일경로,페이지타이틀,메타설명,Amazon슬롯수,Amazon링크삽입완료여부,출처근거,비고
+1,Statue of Liberty,https://en.wikipedia.org/wiki/Statue_of_Liberty,statue-of-liberty,Chloe Bennett,icons-landmarks,게시완료(샘플),2026-07-28,posts/statue-of-liberty.html,"Statue of Liberty: The Gift That Almost Never Arrived","How a 305-foot copper woman became America's symbol of freedom.",5,미완료(플레이스홀더),Wikipedia - Statue of Liberty (History/Construction sections),"샘플 템플릿용 게시물 - 실제 발행 전 Amazon 링크 삽입 필요"
+2,White House,https://en.wikipedia.org/wiki/White_House,white-house,Ian Lee,government-history,초안,,,,,,,,
+3,Lincoln Memorial,https://en.wikipedia.org/wiki/Lincoln_Memorial,lincoln-memorial,Mina Han,memorials-culture,초안,,,,,,,,
+4,Empire State Building,https://en.wikipedia.org/wiki/Empire_State_Building,empire-state-building,Ethan Cole,skyscrapers-structures,초안,,,,,,,,
+5,Golden Gate Bridge,https://en.wikipedia.org/wiki/Golden_Gate_Bridge,golden-gate-bridge,Ethan Cole,skyscrapers-structures,초안,,,,,,,,
